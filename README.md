@@ -14,7 +14,7 @@
 
 # \## 📸 Hardware Showcase
 
-# !\[Robot Image](D:\Github_docs\12-DOF-Quadruped-Robot\Media\dog.jpg) 
+# !\[Robot Image](.\Media\dog.jpg) 
 
 # \*(Hướng dẫn: Đổi tên file `your\_image\_name.jpg` thành tên file ảnh thật của em trong thư mục Media)\*
 
